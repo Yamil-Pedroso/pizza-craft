@@ -48,7 +48,7 @@ button {
 
 .base {
   display: flex;
- margin-left: 30rem;
+ margin-left: 23rem;
   gap: 3rem;
   flex-direction: row;
 
@@ -95,7 +95,7 @@ button {
       }
     }
   }
-   
+
     .next {
       button {
         border: 1px solid #ff6b09;
@@ -110,7 +110,7 @@ button {
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
-  margin-left: 10rem;
+  margin-left: 7.5rem;
   gap: 2rem;
 
   h3 {
@@ -132,7 +132,7 @@ button {
       display: flex;
       justify-content: space-between;
       align-items: center;
-      
+
     }
     li {
       text-align: center;
